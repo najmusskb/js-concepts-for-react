@@ -23,7 +23,7 @@ session = 'summer';
 // push
 // pop
 
-let number = [1, 54, 874, 65, 81, 685, 4154121, 54, 1548, 1547, 8545241, 1, 58]
+const number = [1, 54, 874, 65, 81, 685, 4154121, 54, 1548, 1547, 8545241, 1, 58]
 
 // console.log(number.length);
 number[0] = 65;
