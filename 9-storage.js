@@ -12,4 +12,5 @@ const addToLocalstorage = () => {
 
     inputId.value = '';
     inputvalue.value = '';
+    // this is the end 
 }
